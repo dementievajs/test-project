@@ -12,7 +12,7 @@
   "devDependencies": {
     "@cypress/webpack-preprocessor": "4.1.0",
     "@types/jasmine": "2.8.16",
-    "cypress": "^3.3.1",
+    "cypress": "^3.6.1",
     "jasmine": "3.4.0",
     "jasmine-spec-reporter": "4.2.1",
     "protractor": "6.0.0",
@@ -21,15 +21,5 @@
     "ts-node": "5.0.1",
     "typescript": "3.5.2",
     "webpack": "4.35.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dementievajs/test-project.git"
-  },
-  "author": "julia",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dementievajs/test-project/issues"
-  },
-  "homepage": "https://github.com/dementievajs/test-project#readme"
+  }
 }
