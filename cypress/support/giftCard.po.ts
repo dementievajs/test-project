@@ -5,10 +5,12 @@ import {BaseComponent} from "./base.component";
 export class GiftCardPo extends BaseComponent {
     pageUrl = '/dp';
 
-    giftAmmount50 = '#a-autoid-21';
+    giftAmmount100 = '#a-autoid-23';
     previewPrice = '#gc-buy-box-text .a-color-price';
-    shareViaMessage= '#gc-delivery-mechanism-button-Shareable-announce';
+    shareViaEmail= '#gc-delivery-mechanism-button-Email-announce';
+    typeToEmail = '#gc-order-form-recipients';
+    senderName = '#gc-order-form-senderName';
     addToCardButton = '#gc-buy-box-atc';
-    addedToCard = '#huc-v2-order-row-confirm-text h1';
+    addedToCard = '.a-size-medium h1';
 
 }

@@ -14,7 +14,7 @@ export class HomePo extends BaseComponent {
     langDropdown = '#nav-flyout-icp';
     searchInput = '#twotabsearchtextbox';
     searchIcon = '.nav-search-submit';
-    giftCardBtn = '#nav-xshop [tabindex="49"]';
+    giftCardBtn = '#nav-xshop [tabindex="50"]';
     giftCardsLinkText = 'Gift Cards';
     happyHolidayShopBtn = 'a.nav-imageHref';
 
