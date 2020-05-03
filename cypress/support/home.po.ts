@@ -6,7 +6,7 @@ export class HomePo extends BaseComponent {
     pageUrl = '';
 
     shopByCategoryLink = '[aria-label^="Shop by Category"]';
-    computerDepLink = '[href*="leftnav_computers"]';
+    computerDepLink = '[href*="left nav_computers"]';
     headerNavLinks = '.nav-a';
     dealLinkText = 'Today\'s Deals';
     langLabel = '.icp-nav-language';

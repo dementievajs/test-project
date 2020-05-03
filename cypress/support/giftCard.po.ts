@@ -5,7 +5,7 @@ import {BaseComponent} from "./base.component";
 export class GiftCardPo extends BaseComponent {
     pageUrl = '/dp';
 
-    giftAmmount100 = '#a-autoid-23';
+    giftAmmount100 = '#gc-mini-picker-amount-4';
     previewPrice = '#gc-buy-box-text .a-color-price';
     shareViaEmail= '#gc-delivery-mechanism-button-Email-announce';
     typeToEmail = '#gc-order-form-recipients';
